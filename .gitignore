@@ -10,5 +10,4 @@ vim_passfile
 # ignore .orig files
 *.orig
 # unicode data
-autoload/unicode/UnicodeData.*
 doc/tags
